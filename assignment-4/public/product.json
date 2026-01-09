@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "description": "High performance laptop suitable for coding, office work, and online learning.High performance laptop suitable for coding, office work, and online learning.High performance laptop suitable for coding, office work, and online learning.",
+        "price": 50000
+    },
+    {
+        "id": 2,
+        "name": "Mouse",
+        "description": "Wireless optical mouse with smooth tracking and ergonomic design.Wireless optical mouse with smooth tracking and ergonomic design.Wireless optical mouse with smooth tracking and ergonomic design.",
+        "price": 500
+    },
+    {
+        "id": 3,
+        "name": "Charger",
+        "description": "Fast charging adapter compatible with laptops and smartphones.Fast charging adapter compatible with laptops and smartphones.Fast charging adapter compatible with laptops and smartphones.Fast charging adapter compatible with laptops and smartphones.",
+        "price": 5000
+    }
+]
